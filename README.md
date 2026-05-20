@@ -49,7 +49,7 @@ End-to-end retrieval-augmented generation system for knowledge QA.
 - Deployed via FastAPI + Docker for production use
 
 **Tech Stack:** PyTorch · HuggingFace · FAISS · FastAPI · Docker  
-🔗 Repo: https://github.com/Jasper_T/rag-system
+🔗 Repo: https://github.com/Jasper-T/rag-system
 
 ---
 
@@ -61,7 +61,7 @@ Efficient fine-tuning pipeline for domain-specific question answering.
 - Improved baseline performance via supervised fine-tuning
 
 **Tech Stack:** Transformers · PEFT · DeepSpeed  
-🔗 Repo: https://github.com/Jasper_T/llm-finetune
+🔗 Repo: https://github.com/Jasper-T/llm-finetune
 
 ---
 
@@ -73,15 +73,15 @@ Low-latency machine learning inference backend system.
 - Dockerized deployment for reproducibility
 
 **Tech Stack:** FastAPI · Redis · Docker · Linux  
-🔗 Repo: https://github.com/Jasper_T/ml-system
+🔗 Repo: https://github.com/Jasper-T/ml-system
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasper_T&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasper-T&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper_T)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper-T)
 
 ---
 
@@ -96,9 +96,9 @@ Low-latency machine learning inference backend system.
 
 ## 📫 Contact
 
-- Email: your_email@example.com
+- Email: 13362652315@163.com
 - LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/Jasper_T
+- GitHub: https://github.com/Jasper-T
 
 ---
 
