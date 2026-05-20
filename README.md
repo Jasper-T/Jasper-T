@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jasper
 
 🚀 AI / Machine Learning Engineer  
-📍 Taiwan | Open to Full-time / Research Engineer / Applied AI roles
+📍 China Mainland | Open to Full-time / Research Engineer / Applied AI roles
 
 ---
 
